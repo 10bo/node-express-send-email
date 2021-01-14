@@ -3,6 +3,8 @@
 This is an example of how an order confirmation can be sent from a Node express
 server.
 
+This project was initially created using the express-generator package.
+
 # How to run the server
 
 * Run `npm install`
